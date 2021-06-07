@@ -14,6 +14,7 @@ public:
         long long spe = 0;
         for(int i = 0; i < n; i++)
         {
+        
             spe += tmp[i].second;
             int effi = tmp[i].first;
             // cout << spe << " " << effi << endl;
